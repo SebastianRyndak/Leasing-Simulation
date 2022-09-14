@@ -1,0 +1,27 @@
+{
+    "customer":
+        {
+            "name": "Alfred",
+            "surname": "Batman",
+            "age": 34,
+            "phoneNumber":"534864845",
+            "email":"alfredBatman@wp.pl"
+        },
+    "financialInformation":
+        {
+            "grossEarnings": 123713.0,
+            "companyName": "Mart",
+            "contractDuration": 6,
+            "managerPhoneNumber": "567564849",
+            "totalExposure": 560000.0,
+            "forbiddenBusinessType": "NO",
+            "forbiddenAssetType": 13,
+            "customerCurrentDebts":
+                [
+                        {
+                            "name": "Jordzio",
+                            "amount" : 16263.90
+                        }
+                ]
+        }
+}
